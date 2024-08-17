@@ -1,7 +1,7 @@
 
 # Weather App
 
-A brief description of what this project does and who it's for
+http://127.0.0.1:5500/index.html
 
 
 ## Overview
